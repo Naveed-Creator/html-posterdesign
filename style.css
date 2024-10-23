@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+}
+h1{
+    font-size:2rem;
+    text-align: center;
+    text-transform: uppercase;
+}
+.posterone{
+    font-family:"Varela Round",sans-serif;
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    font-size: 1rem;
+    text-transform: capitalize;
+}
+.imageone{
+    width: 100%;
+    border: 5px solid white
+}
+
+.postertwo{
+    font-family:"Varela Round",sans-serif;
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    font-size: 1rem;
+    text-transform: capitalize;
+}
+.imagetwo{
+    width: 100%;
+    border: 5px solid white
+}
+
+.posterthree{
+    font-family:"Varela Round",sans-serif;
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin-left:25%;
+    margin-top: 100px;
+    font-size: 1rem;
+    text-transform: capitalize;
+}
+.imagethree{
+    width: 100%;
+    border: 5px solid white
+}
+
